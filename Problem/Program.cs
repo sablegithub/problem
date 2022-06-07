@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(String[]args)
     {
-        Console.WriteLine("Program form Prime Factor of Number");
+        Console.WriteLine(" Program form Prime Factor of Number");
         
         Console.WriteLine("Enter a Number");
         int x = Convert.ToInt32(Console.ReadLine());
